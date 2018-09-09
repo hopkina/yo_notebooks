@@ -14,6 +14,9 @@ Trying out [folium](http://python-visualization.github.io/folium/docs-v0.5.0/)
 * [yo-hypsometric](yo-hypsometric.ipynb)
 Calculating a hyspometric curve for a catchment
 
+* [yo-ndwibyblock](yo-ndwibyblock.ipynb)
+Calculating NDWI for larger than memory images
+
 * [yo-pct-cover](yo-pct-cover.ipynb)
 Calculating percentage cover of water and wetness classes by local authority
 
